@@ -1,0 +1,1 @@
+This method calculates the economical way of load sharing to the applicants from different generating stations.
